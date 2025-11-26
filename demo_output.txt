@@ -1,1 +1,72 @@
 
+             Menu Options
+----------------------------------------
+       1 - Search for a Pokemon
+       2 - Search for an Item
+       3 - Search for a Move
+       4 - Exit Pokedex
+
+  Type 1, 2, 3, or 4 to select an option...
+
+Your Selection: 3
+Type in a move name...
+f
+
+Invalid Move: f!
+
+Type in an move name...
+
+[10]+  Stopped                 node main.js
+root@RylansLaptop:~/CIS343/Project-4-Pokedex# node main.js
+             Menu Options
+----------------------------------------
+       1 - Search for a Pokemon
+       2 - Search for an Item
+       3 - Search for a Move
+       4 - Exit Pokedex
+
+  Type 1, 2, 3, or 4 to select an option...
+
+Your Selection: '1
+Not a valid option!
+
+             Menu Options
+----------------------------------------
+       1 - Search for a Pokemon
+       2 - Search for an Item
+       3 - Search for a Move
+       4 - Exit Pokedex
+
+  Type 1, 2, 3, or 4 to select an option...
+
+Your Selection: 1
+Type in a pokemon name...
+Dragapult
+========================================
+Name:       Dragapult
+ID:         887
+----------------------------------------
+Types:      Dragon, Ghost
+Abilities:  Clear-body, Infiltrator, Cursed-body
+Stats:
+  - Hp: 88
+  - Attack: 120
+  - Defense: 75
+  - Special-attack: 100
+  - Special-defense: 75
+  - Speed: 142
+----------------------------------------
+Height:     30
+Weight:     500
+========================================
+
+             Menu Options
+----------------------------------------
+       1 - Search for a Pokemon
+       2 - Search for an Item
+       3 - Search for a Move
+       4 - Exit Pokedex
+
+  Type 1, 2, 3, or 4 to select an option...
+
+Your Selection: 4
